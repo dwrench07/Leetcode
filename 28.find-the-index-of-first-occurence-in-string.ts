@@ -1,3 +1,4 @@
+// Todo: Update the function name
 function strStr(haystack: string, needle: string): number {
     if(needle.length > haystack.length || needle.length === 0)
         return -1;
